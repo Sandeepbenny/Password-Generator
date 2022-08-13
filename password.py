@@ -1,4 +1,5 @@
 import random
+print("\n\t\t******** *********\n \t\tPassword Generator\n\t\t******** *********\nby Sandeep Benny \n")
 lowercase="abcdefghijklmnopqrstuvwyxyz"
 uppercase=lowercase.upper()
 number="0123456789"
